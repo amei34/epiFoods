@@ -20,7 +20,7 @@
 
 <p> Languages Used: Swift </p>
 
-<p> API(s) Used: <a href="https://world.openfoodfacts.org/">Open Food Facts</a> </p>
+<p> API(s) Used: <a href="https://openfoodfacts.github.io/api-documentation/">Open Food Facts API</a> </p>
 
 <hr>
 
